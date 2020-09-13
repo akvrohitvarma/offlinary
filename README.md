@@ -8,3 +8,5 @@ As always this program is open source, feel free to use this chunk in your perso
 But don't forget to mention me ;)
 
 Thank you for using offlinary!!
+
+_please check the wiki section if you want help using or installing OFFLINARY_
