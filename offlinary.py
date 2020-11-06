@@ -23,7 +23,7 @@ def translate(word):
     else:
         return "The word you entered doesn't exist, check again!!"
 
-word = input("Please a word to know it's meaning: ")
+word = input("Please enter a word to know it's meaning: ")
 
 output = (translate(word))
 
